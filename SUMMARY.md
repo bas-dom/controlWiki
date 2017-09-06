@@ -12,4 +12,9 @@
   * 特灵BCU
   * 江森NCE或NAE
   * 巡检仪
+* [电气知识](dian-qi-zhi-shi.md)
+  * [控制柜设计](dian-qi-zhi-shi/kong-zhi-gui-she-ji.md)
+  * 施工
+  * [调试](dian-qi-zhi-shi/diao-shi.md)
+  * [变频器](dian-qi-zhi-shi/bian-pin-qi.md)
 
