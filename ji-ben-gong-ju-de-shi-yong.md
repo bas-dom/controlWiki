@@ -8,13 +8,21 @@
 
 OPC Client软件是一个利用OPC协议通讯的实例，一方面用来测试OPCClient是否连接，另一方面是用于读取OPC服务器中的点值及格式。
 
-#2. ModScan32 #
+#2. Modbus相关
+
+## ModScan32 ##
 ModScan32是一个运行在windows下，作为在RTU或ASCII传输模式下的MODBUS协议主设备的应用程序。把一个或多个MODBUS从站设备通过串口，调制解调器或者网络连接到电脑上，就可以使用ModScan读取和修改数据点。
 
-# 3. BACnetScan#
+## Modbus Poll ##
+  仿真子站
+  
+#3. 串口调试工具 #
+  常用于电脑在现场调试485协议，modbus也是其中的一种应用。
+
+#4. BACnetScan#
 BACnetScan是BACnet客户端扫描软件，该软件同时具备BACnet Ethernet、BACnet IP和BACnet MS/TP扫描功能，并且具有读属性、写当前值属性、修改BACnet设备ID和导出到EXCEL等功能。在PC上通过网口或串口即可扫描到BACnet设备。另外本软件支持多国语言切换，而且操作简单，扫描速度快，方便现场调试。
 
-# 4. Sokit #
+#5. Sokit #
 Sokit是一款开源免费的TCP / UDP测试（调试）工具，可以用来接收，发送或转发TCP/UDP数据包。
 
 该工具可以工作在以下三种模式：
@@ -27,5 +35,5 @@ Sokit是一款开源免费的TCP / UDP测试（调试）工具，可以用来接
 
 支持收发日志文件。支持快捷键操作。支持中英文用户界面。支持Windows XP/2000/2003/2008/Vista/7以及Linux系统。
 
-# 5. Wireshark抓包工具 #
+# 6. Wireshark抓包工具 #
 Wireshark是世界上最流行的网络分析工具。这个强大的工具可以捕捉网络中的数据，并为用户提供关于网络和上层协议的各种信息。与很多其他网络工具一样，Wireshark也使用pcap network library来进行封包捕捉。可破解局域网内QQ、邮箱、msn、账号等的密码。wireshark的原名是Ethereal，新名字是2006年起用的。当时Ethereal的主要开发者决定离开他原来供职的公司，并继续开发这个软件。但由于Ethereal这个名称的使用权已经被原来那个公司注册，于是改为Wireshark这个新名字。
