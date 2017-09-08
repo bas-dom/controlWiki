@@ -19,4 +19,5 @@
   * [施工](dian-qi-zhi-shi/shi-gong.md)
   * [调试](dian-qi-zhi-shi/diao-shi.md)
   * [变频器](dian-qi-zhi-shi/bian-pin-qi.md)
+* [AI/AO/DI/DO](aiaodido.md)
 
