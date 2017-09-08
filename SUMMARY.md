@@ -16,7 +16,7 @@
   * [巡检仪](chang-jian-kong-zhi-yong-ying-jian-she-bei/xun-jian-yi.md)
 * [电气知识](dian-qi-zhi-shi.md)
   * [控制柜设计](dian-qi-zhi-shi/kong-zhi-gui-she-ji.md)
-  * 施工
+  * [施工](dian-qi-zhi-shi/shi-gong.md)
   * [调试](dian-qi-zhi-shi/diao-shi.md)
   * [变频器](dian-qi-zhi-shi/bian-pin-qi.md)
 
