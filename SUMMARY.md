@@ -21,4 +21,5 @@
   * [变频器](dian-qi-zhi-shi/bian-pin-qi.md)
 * [AI/AO/DI/DO](aiaodido.md)
 * [CPU1214c与CPU1215c的区别](cpu1214cyu-cpu1215c-de-qu-bie.md)
+* [怎样实现PLC数据直接发送云](1200he-200-de-jie-kou-bi-jiao.md)
 
