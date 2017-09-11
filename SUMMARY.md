@@ -23,5 +23,5 @@
 * [怎样实现PLC数据直接发送云](1200he-200-de-jie-kou-bi-jiao.md)
 * 弱电设计与点位计算
   * [AI/AO/DI/DO](aiaodido.md)
-
+  * [常见设备点位统计范例](chang-jian-she-bei-dian-wei-tong-ji-fan-li.md)
 
