@@ -19,6 +19,7 @@
   * [施工](dian-qi-zhi-shi/shi-gong.md)
   * [调试](dian-qi-zhi-shi/diao-shi.md)
   * [变频器](dian-qi-zhi-shi/bian-pin-qi.md)
+  * [配电柜设计](dian-qi-zhi-shi/pei-dian-gui-she-ji.md)
 * [CPU1214c与CPU1215c的区别](cpu1214cyu-cpu1215c-de-qu-bie.md)
 * [怎样实现PLC数据直接发送云](1200he-200-de-jie-kou-bi-jiao.md)
 * 弱电设计与点位计算
